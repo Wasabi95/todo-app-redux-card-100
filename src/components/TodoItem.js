@@ -54,7 +54,7 @@ function TodoItem({ todo }) {
           className="btn btn-danger m-2"
           onClick={handleDeleteClick}
         >
-          Delete
+          Borrando
         </button>
       </div>
     </div>
